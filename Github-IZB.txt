@@ -4,4 +4,5 @@ Untuk belajar Github Harus Mengetahui beberapa terminologi berikut
 3. Branch
 4. Mail
 5. Clone
-6. Conflict
+7. Push
+8. Full
